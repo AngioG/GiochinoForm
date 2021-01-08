@@ -1,0 +1,14 @@
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\Deserto\Riflessi\bin\Debug\Riflessi.exe.config
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\Deserto\Riflessi\bin\Debug\Riflessi.exe
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\Deserto\Riflessi\bin\Debug\Riflessi.pdb
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\Deserto\Riflessi\obj\Debug\Riflessi.csprojAssemblyReference.cache
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\Deserto\Riflessi\obj\Debug\Riflessi.Form1.resources
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\Deserto\Riflessi\obj\Debug\Riflessi.Properties.Resources.resources
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\Deserto\Riflessi\obj\Debug\Riflessi.csproj.GenerateResource.cache
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\Deserto\Riflessi\obj\Debug\Riflessi.csproj.CoreCompileInputs.cache
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\Deserto\Riflessi\obj\Debug\Riflessi.exe
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\Deserto\Riflessi\obj\Debug\Riflessi.pdb
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\Deserto\Riflessi\bin\Debug\Riflessi.exe.manifest
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\Deserto\Riflessi\bin\Debug\Riflessi.application
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\Deserto\Riflessi\obj\Debug\Riflessi.exe.manifest
+C:\Users\angioletti\Desktop\Gabri\Scuola\superiori\Terza\Informatica\Deserto\Riflessi\obj\Debug\Riflessi.application
